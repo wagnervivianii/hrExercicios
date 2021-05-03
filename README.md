@@ -1,2 +1,2 @@
 # hrExercicios
-exercício resolvidos do desafio hr
+exercícios resolvidos do desafio hr
